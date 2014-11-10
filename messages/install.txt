@@ -1,0 +1,9 @@
+OPM files are valid in ASCII and XML forms, but this package only highlights the ASCII format.
+
+Supported file extensions:
+ - *.opm
+ - *.opm.txt
+
+You can manually set with View > Syntax > Orbital Parameter Message
+
+If there are other filename conventions in use, submit an enhancement Issue to https://github.com/RazerM/OPM-Syntax
